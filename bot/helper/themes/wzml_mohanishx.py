@@ -63,7 +63,7 @@ class WZMLStyle:
 ┠ <b>☞ Free :</b> {disk_f} 
 ┖ <b>☞ Total :</b> {disk_t}
     
-<a href="https://t.me/QueenMirrorOfficial"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>
+<a href="https://t.me/MohanishX"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>
     '''
     SYS_STATS = '''┎ <b><i>🛠 OS SYSTEM :</i></b>
 ┠ <b>⏰ OS Uptime :</b> {os_uptime}
@@ -86,7 +86,7 @@ class WZMLStyle:
 ┠ <b>☞ Total Core(s) :</b> {total_core}
 ┖ <b>☞ Usabl e CPU(s) :</b> {cpu_use}
 
-<a href="https://t.me/QueenMirrorOfficial"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>
+<a href="https://t.me/MohanishX"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>
     '''
     REPO_STATS = '''┎ <b><i>🧑‍💻 REPO STATISTICS :</i></b>
 ┠ <b>🤖 Bot Updated :</b> {last_commit}
@@ -95,7 +95,7 @@ class WZMLStyle:
 ┠ <b>📝 Last ChangeLog :</b> {commit_details}
 ┖ <b>💥 REMARKS :</b> <code>{remarks}</code>
  
-<a href="https://t.me/QueenMirrorOfficial"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>
+<a href="https://t.me/MohanishX"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>
     '''
     BOT_LIMITS = '''┎ <b><i>❗ BOT LIMITATIONS :</i></b>
 ┠ <b>🎯 Direct Limit :</b> {DL} GB
@@ -112,7 +112,7 @@ class WZMLStyle:
 ┠ <b>👤 User Parallel Tasks :</b> {UT}
 ┖ <b>🤖 Bot Parallel Tasks :</b> {BT}
 
-<a href="https://t.me/QueenMirrorOfficial"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>
+<a href="https://t.me/MohanishX"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>
     '''
     # ---------------------
 
@@ -127,7 +127,7 @@ class WZMLStyle:
 ┠ <b>🌐 TimeZone:</b> {timz}
 ┖ <b>🆔 Version:</b> {version}
 
-<a href="https://t.me/QueenMirrorOfficial"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>'''
+<a href="https://t.me/MohanishX"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>'''
     RESTARTED = '''<b><i>🤖 Bot Restarted! 🎉</i></b>'''
     # ---------------------
 
@@ -277,7 +277,7 @@ class WZMLStyle:
 ➲ <u><b>Available Args:</b></u>
 • <b>-s</b> or <b>-set</b>: Set Directly via Arg
 
-<a href="https://t.me/QueenMirrorOfficial"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>'''
+<a href="https://t.me/MohanishX"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>'''
 
     UNIVERSAL = '''㊂ <b><u>Universal Settings : {NAME}</u></b>
 
@@ -289,7 +289,7 @@ class WZMLStyle:
 ┠<b>📩 Save Mode :</b> <code>{SAVE_MODE}</code>
 ┖<b>🕵️ User Bot PM :</b> <code>{BOT_PM}</code>
 
-<a href="https://t.me/QueenMirrorOfficial"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>'''
+<a href="https://t.me/MohanishX"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>'''
 
     MIRROR = '''㊂ <b><u>Mirror/Clone Settings : {NAME}</u></b>
 
@@ -302,7 +302,7 @@ class WZMLStyle:
 ┠<b>📝 Total User TD(s) :</b> <i>{USERTD}</i>
 ┖<b>☁️ Daily Mirror :</b> <code>{DM}</code> per day
 
-<a href="https://t.me/QueenMirrorOfficial"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>'''
+<a href="https://t.me/MohanishX"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>'''
 
     LEECH = '''㊂ <b><u>Leech Settings for {NAME}</u></b>
 
@@ -318,4 +318,4 @@ class WZMLStyle:
 ┠<b>📦 Leech Dumps :</b> <code>{LDUMP}</code>
 ┖<b>🌈 Leech Remname :</b> <code>{LREMNAME}</code>
 
-<a href="https://t.me/QueenMirrorOfficial"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>'''
+<a href="https://t.me/MohanishX"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @MohanishX</b></a>'''
