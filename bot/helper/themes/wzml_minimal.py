@@ -6,8 +6,8 @@ class WZMLStyle:
     ST_BN1_URL = 'https://t.me/+oouhiL5f1f9kYmM1'
     ST_BN2_NAME = 'Admin'
     ST_BN2_URL = 'https://t.me/Mohanish7777777'
-    ST_MSG = '''<i>Hello Dear Clients I Am Here...</i>
-<b>My name is GDRIVE Clone Bot, I Will Clone All Your Data (Google SD To SD)</b>'''
+    ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
+<b>Type {help_command} to get a list of available commands</b>'''
     ST_BOTPM = '''<i>🕵Now, This bot will send all your files and links here. Start Using ...</i>'''
     ST_UNAUTH = '''<i>⚠️ You Are not authorized user!</i>'''
     OWN_TOKEN_GENERATE = '''<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>'''
